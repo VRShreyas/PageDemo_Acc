@@ -69,7 +69,5 @@ def pytest_runtest_makereport(item):
         report.extra = extra
 
 
-'''
 def _capture_screenshot(name):
-     get_screenshot_as_file(name)
-'''
+    driverC.get_screenshot_as_file(name)

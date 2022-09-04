@@ -12,4 +12,4 @@ To get the  Text details from 5G Page of Accenture site.
 * Get the text from 5G Main page and Print in Console
 
 ## Output
-![image](https://user-images.githubusercontent.com/104408525/188309396-8528762e-ed05-4c49-86d3-4c633b55d860.png)
+![img.png](img.png)

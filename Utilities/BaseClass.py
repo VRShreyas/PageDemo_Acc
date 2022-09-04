@@ -14,7 +14,7 @@ class BaseClass:
         # logger = logging.getLogger(__name__)
         # the above code __name__ will be replaced by loggerName , coz in logs it will update correct  method name
         logger = logging.getLogger(loggerName)
-        fileHandler = logging.FileHandler('C:\\Users\\Shreyas_Ratnakar\\PycharmProjects\\PageDemo1\\Utilities'
+        fileHandler = logging.FileHandler('C:\\Users\\Shreyas_Ratnakar\\PycharmProjects\\PageDemo_Acc\\Utilities'
                                           '\\RunLog.log')
         formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
         fileHandler.setFormatter(formatter)
