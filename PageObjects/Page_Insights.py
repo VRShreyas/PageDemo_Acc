@@ -9,4 +9,5 @@ class Insights_5G_Page:
     Text_5G = (By.XPATH, "//div/h1[contains(text(),'The future is 5G')]")
 
     def Text_5G_InsightsPage(self):
+        #self.driver.get_screenshot_as_file("Pass_Screenshot.png")
         return self.driver.find_element(*Insights_5G_Page.Text_5G)
