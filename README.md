@@ -1,10 +1,10 @@
-#Accenture Website Sanity 
+## Accenture Website Sanity 
 Check Accenture WebPage for Demo.
 
-##Test Scenario 
+## Test Scenario 
 To get the  Text details from 5G Page of Accenture site.
 
-##Test scenario steps
+## Test scenario steps
 * Launch to Accenture Site.
 * Select the pageObject  for Insights option in Home page.
 * Collect all object details and filter the 5G Object
